@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/qiupiandizhi/qiupiandizhi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSRF Token -->
+  
+    
+    <title>求在线观看网站-求网站2022-求地址发布页</title>
+    <meta name="keywords" content="求在线观看网站，求网站2022，求地址，发布页，求地址你懂的，求网站男生懂的"/>
+    <meta name="description" content="求网站2022没封的网站:求网站地址你懂的、求网络地址、求在线观看网站、求网站男生懂的、求个免费电影的网站、求地址发布页为你分享，求网站急急急从此不再急。
+"/>
+</head>
 
-### Markdown
+    <link href="/a.css?id=ab98cd7104c29b1d75e6" rel="stylesheet">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <style>
+        body {
+            background-color: white;
+            font-size: 14px;
+        }
 
-```markdown
-Syntax highlighted code block
+        p {
+            line-height: 32px;
+        }
+    </style>
+<body>
+    <div id="app">
+        <div  class="container-sm">
+            <div class="text-center">
+              <!--  <img src="/themes/trg/img/logo.png" title="求网站地址你懂的" />-->
+                <h1>
+                    求网站地址你懂的
+                </h1>
+                <p>
+                <p>求地址你懂的，求网站你懂的，求网站男生懂的，求在线观看网站老司机带你自由飞翔。</p>
+            <p>求网站只分享男人懂的，纯洁无毒，2022最新网站你懂的，懂得都懂网址，给个网站你们懂的2022污片神器！</p>
+                </p>
+                <p>
+                    <a href="/1.html"  rel="nofollow"  class="btn btn-lg btn-success">进入你懂的网站一</a>
+			    <p>
+                    <a href="/1.html"  rel="nofollow"  class="btn btn-lg btn-success">进入你懂的网站二</a>
+                </p>
+                <p>
+                    <a href="/1.html"  rel="nofollow"  class="btn btn-lg btn-success">进入你懂的网站三</a>
+                </p>
+			    <p>
+                    <a href="/1.html"  rel="nofollow"  class="btn btn-lg btn-success">进入你懂的网站四</a>
+                </p>
+                <p>
+                    <a href="/1.html"  rel="nofollow"  class="btn btn-lg btn-success">进入你懂的网站五</a>
+                </p>
+                <p>
+                    <a href="/1.html"  rel="nofollow"  class="btn btn-lg btn-success">进入你懂的网站六</a>
+                </p>				
+                </p>
+	    <p>
+                    <a href="https://qiuwangzhi.github.io/"  rel="nofollow"  class="btn btn-lg btn-success">求网站男生懂的备用地址</a>
+                </p>			
+								<div class="alert alert-warning">
+					找不到最新地址，请发邮件<font color="red">qiuwangzhan@gmail.com</font> 自动获取论坛最新地址
+				</div>
+				<div class="alert alert-warning">
+					求网站网址永久地址<font color="red">www.xhydh123.com</font> 
+				</div>
+				
+            </div>
 
-# Header 1
-## Header 2
-### Header 3
+            
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+        </div>
+    </div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+    <footer class="footer">
+   
+    <div class="col-md-10 col-md-offset-1">
+        <p>求地址发布页服务于北美，日本及台湾地区 遵守当地法律。
+        </p>
+    </div>        
+    <div class="col-md-10 col-md-offset-1">
+        <p>Copyright © 2017-2019 <a href="https://qiuwangzhi.github.io/">求在线观看网站-求网站2022-求地址发布页</a>. All rights
+            reserved.</p>
+    </div>        
+  
+</footer>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qiupiandizhi/qiupiandizhi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <div style="display: none;">
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div></body>
+</html>
